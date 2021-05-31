@@ -39,7 +39,6 @@
 <p align="center">
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
