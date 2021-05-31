@@ -34,8 +34,5 @@
 <a href="https://www.instagram.com/ig_lokeshgamingyt"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ig_lokeshgamingyt-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:support@ratioofficial.com"><img alt="Email" src="https://img.shields.io/badge/Email-support@ratioofficial.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<h3> 💻 Languages and Tools...</h3>
-
-
 
 🖤 From [Lokesh](https://discord.gg/nthHcvz)
