@@ -15,7 +15,7 @@
  🖤 Listening To Music  | :blue_heart: Programming
 
 - :earth_americas: I'M From - India
-- :video_game: I'M A eSports Player From (Guru Esports™ | INDIA)
+- :video_game: I'M A eSports Player From (Guru Esports™ | INDIA)[https://discord.gg/spR5gFS]
 - 💻 Loves Programming
 
 <h3>🛠 Tech Stack</h3>
