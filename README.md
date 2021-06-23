@@ -1,12 +1,12 @@
 <h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> Hey there! I'm Lokesh.</h2>
 
-<a href="https://discord.gg/nthHcvz">
-  <img align="left" alt="Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.gg/ee7ryDG">
+  <img align="left" alt="Discord" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/ritikdhayal2">
+<a href="https://twitter.com/LokeshGamingYT">
   <img align="left" alt="PHOENIX| Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/ig_ritikdhayal/">
+<a href="https://www.instagram.com/ig_lokeshgamingyt/">
   <img align="left" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <img align="right" height="300px" width="350px" alt="GIF" src="https://cdn.discordapp.com/attachments/838059810733031475/848928456196227142/Lokesh.png" />
@@ -15,7 +15,7 @@
  🖤 Listening To Music  | :blue_heart: Programming
 
 - :earth_americas: I'M From - India
-- :video_game: I'M A eSports Player From (Guru Esports™ | INDIA)[https://discord.gg/spR5gFS]
+- :video_game: I'M A eSports Player From [Guru Esports™ | INDIA](https://discord.gg/spR5gFS)
 - 💻 Loves Programming
 
 <h3>🛠 Tech Stack</h3>
